@@ -23,5 +23,5 @@ _This repo only contains the C# scripts and no other files or assets related to 
 + AI-created background music
 + Observer pattern for event managment such as scores, games states, etc.
 
-### Video
+### Video trailer
 [![Watch the trailer](https://user-images.githubusercontent.com/120580433/216363268-30cf6b87-95e2-47fb-9e94-8bf701a489dc.png)](https://youtu.be/zf1ry9p83d4)
