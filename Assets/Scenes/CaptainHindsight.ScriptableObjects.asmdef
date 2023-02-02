@@ -1,0 +1,14 @@
+{
+    "name": "CaptainHindsight.ScriptableObjects",
+    "rootNamespace": "CaptainHindsight",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
