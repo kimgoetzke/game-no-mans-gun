@@ -4,24 +4,22 @@ No Man's Gun is a physics-based, hardcore, time-trial 2D pixel art game, optimis
 
 _This repo only contains the C# scripts and no other files or assets related to the game. Plastic SCM was used for full version control for this project as it natively integrates with Unity._
 
-![NMG-banner](https://user-images.githubusercontent.com/120580433/216371192-02eadda6-0416-472d-9c5f-010481841832.png)
+![NMG-banner 2](https://user-images.githubusercontent.com/120580433/216582742-1506c5e5-1a69-40f8-a801-f0ee3eadc845.png)
 
 ### Technical highlights
-+ Optimised for Android with touch controls but runs on Android as well as desktop
-+ Integration with Lootloocker.io's API to enable online leaderboards
-+ Simple state machine to handle game states
-+ Scriptable Objects to enable level creation at scale
-+ Ghost replay/beat your own ghost feature (also using Scriptable Objects)
-+ Object pools to pre-spawn a number of frequently spawned objects
++ Designed for Android with touch controls but also ported to Windows desktop
++ Integration with the Lootloocker API to enable online leaderboards
++ State machine to handle game states
++ Scriptable Objects to enable scalable level creation and management
++ Ghost replay/beat your own ghost feature (using Scriptable Objects)
++ Object pooling to pre-spawn and manage frequently used objects such as particles
 + Player score and preference save file management
 + High-performance game achitecture to allow run on mid-end mobiles
-+ Real-time material manipulation via code for effects such as shockwaves
++ Blit render texture effects such as shockwaves
 + Parallex background scrolling
-+ Touch friendly UI design
++ Touch optimised UI
 + Making use of AnimatorOverrideControllers and player states to enable fully swappable player skins and stats at runtime
-+ Unity Tilemaps for level creation
++ Unity 2D Tilemaps for level creation
 + AI-created background music
-+ Observer pattern for event managment such as scores, games states, etc.
 
-### Video trailer
-[![Watch the trailer](https://user-images.githubusercontent.com/120580433/216363268-30cf6b87-95e2-47fb-9e94-8bf701a489dc.png)](https://youtu.be/zf1ry9p83d4)
+![NMG-banner](https://user-images.githubusercontent.com/120580433/216371192-02eadda6-0416-472d-9c5f-010481841832.png)
