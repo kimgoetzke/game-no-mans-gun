@@ -1,6 +1,6 @@
 # No Man's Gun
 
-No Man's Gun is a physics-based, hardcore, time-trial 2D pixel art game, optimised for Android, written in C#, and powered by Unity. It was created as a project to learn C#, understand Unity Engine, and learn about shaders and physics-based programming while having fun.
+No Man's Gun is a physics-based, hardcore, time-trial 2D pixel art game, optimised for Android, written in C#, and powered by Unity. It was created as a project to learn C#, understand what a engine like Unity Engine does, and learn about physics-based programming.
 
 _This repo only contains the C# scripts and no other files or assets related to the game. Plastic SCM was used for full version control for this project as it natively integrates with Unity._
 
@@ -19,7 +19,7 @@ _This repo only contains the C# scripts and no other files or assets related to 
 + Parallex background scrolling
 + Touch optimised UI
 + Making use of AnimatorOverrideControllers and player states to enable fully swappable player skins and stats at runtime
-+ Unity 2D Tilemaps for level creation
-+ AI-created background music
++ Unity 2D Tilemaps for level creation of 18 unique and challenging levels
++ AI-generated background music
 
-![NMG-banner](https://user-images.githubusercontent.com/120580433/216371192-02eadda6-0416-472d-9c5f-010481841832.png)
+![NMG Banner 01](https://github.com/kimgoetzke/game-no-mans-gun/assets/120580433/fbb6e154-45e2-477c-85bd-a30793130dcf)
